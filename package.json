@@ -1,6 +1,7 @@
 {
   "name": "todo-react-redux-app",
   "version": "0.1.0",
+  "homepage": "http://tejassavaliya.github.io/todo-react-redux-app",
   "private": true,
   "dependencies": {
     "prop-types": "^15.7.2",
